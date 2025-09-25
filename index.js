@@ -6,7 +6,7 @@ const app = express();
 const PORT = 4000;
 
 // ✅ 2 URL bạn muốn gọi mỗi phút
-const TARGET_URL_1 = 'https://server-sushi-lms.onrender.com';
+const TARGET_URL_1 = 'https://linky-backend-4ppe.onrender.com/';
 const TARGET_URL_2 = 'https://api-re-1.onrender.com'; // ← sửa thành URL thứ 2 bạn muốn gọi
 
 // 📅 Tạo cron job chạy mỗi 1 phút
